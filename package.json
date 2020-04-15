@@ -1,7 +1,7 @@
 {
   "name": "@treelab/aliyun-sdk",
   "description": "Aliyun SDK for JavaScript",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "author": {
     "name": "limwcj",
     "email": "lim.wang@treelab.co"
