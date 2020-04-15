@@ -1,12 +1,12 @@
 {
-  "name": "aliyun-sdk",
+  "name": "@treelab/aliyun-sdk",
   "description": "Aliyun SDK for JavaScript",
-  "version": "1.12.3",
+  "version": "1.0.0",
   "author": {
-    "name": "chylvina",
-    "email": "chylvina@gmail.com"
+    "name": "limwcj",
+    "email": "lim.wang@treelab.co"
   },
-  "homepage": "https://github.com/aliyun-UED/aliyun-sdk-js.git",
+  "homepage": "https://github.com/treelab/aliyun-sdk-js",
   "contributors": [],
   "devDependencies": {
     "coffee-script": "1.6.3",
@@ -49,7 +49,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:aliyun-UED/aliyun-sdk-js.git"
+    "url": "git@github.com:treelab/aliyun-sdk-js.git"
   },
   "bugs": {
     "url": "https://github.com/aliyun-UED/aliyun-sdk-js/issues",
